@@ -1,0 +1,20 @@
+=======================================================
+   TRAVEL AGENCY - BOOKING REPORT
+=======================================================
+   Total Bookings : 1
+   Total Clients  : 4
+
+-------------------------------------------------------
+  Booking ID     : BK0001
+  Status         : CANCELLED
+  Client         : njoku collins (Tier: standard)
+  Package        : Nairobi Budget Explorer
+  Destination    : Nairobi, Kenya
+  Duration       : 7 days
+  Travel Class   : economy
+  Package Price  : $600
+  Agent          : Sarah (business travel)
+
+=======================================================
+   END OF REPORT
+=======================================================
