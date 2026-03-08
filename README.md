@@ -9,6 +9,7 @@ The model describes how knowledge about clients, travel services, bookings, and 
 The goal is to represent relationships between different entities involved in a travel agency so that the system can store, process, and retrieve information efficiently when interacting with clients.
 This type of knowledge representation can be used in expert systems, decision-support systems, and intelligent travel recommendation platforms.
 
+
 Objectives:
 
 The main objectives of this project are:
@@ -20,6 +21,7 @@ To create a product model that represents relationships between entities.
 To structure client-related knowledge for automated processing.
 
 To demonstrate how knowledge representation supports client service automation
+
 
 
  Subject Area Description:
