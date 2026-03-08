@@ -25,7 +25,8 @@ To demonstrate how knowledge representation supports client service automation
  Subject Area Description
  
  A travel agency works with clients to provide travel-related services such as:
- Tour package selection
+ 
+Tour package selection
 
 Flight and hotel booking
 
